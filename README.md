@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlexEngMec
 - 👀 I’m interested in FEA and Data Science
-- 🌱 I’m currently learning both
-- 💞️ I’m looking to collaborate on this kind of project
+
 
 
 <!---
